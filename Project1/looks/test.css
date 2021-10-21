@@ -1,0 +1,22 @@
+.error{
+  color: red;
+}
+.success{
+  color: green;
+}
+h3{
+  width: 60px;
+  height: 45px;
+  display: inline-block;
+  background-color: grey;
+}
+.wrapper{
+  width: 70%;
+  margin: 0 auto;
+}
+.product-index{
+  display: flex;
+  align-content: center;
+  justify-content: space-evenly;
+  align-items: center;
+}
